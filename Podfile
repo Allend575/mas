@@ -14,7 +14,7 @@ target 'MasKit' do
   pod 'Result'
 
   target 'MasKitTests' do
-    platform :osx, '10.10'
+    platform :osx, '10.11'
     inherit! :search_paths
 
     pod 'Quick'
